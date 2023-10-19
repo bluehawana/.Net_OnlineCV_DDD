@@ -107,6 +107,43 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Intern.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Intern.Domain": "1.0.0",
+          "Intern.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Intern.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Intern.Application.dll": {}
+        }
+      },
+      "Intern.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Intern.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Intern.Domain.dll": {}
+        }
+      },
+      "Intern.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Intern.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Intern.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Intern.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -460,10 +497,26 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Intern.Application/1.0.0": {
+      "type": "project",
+      "path": "../Intern.Application/Intern.Application.csproj",
+      "msbuildProject": "../Intern.Application/Intern.Application.csproj"
+    },
+    "Intern.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Intern.Domain/Intern.Domain.csproj",
+      "msbuildProject": "../Intern.Domain/Intern.Domain.csproj"
+    },
+    "Intern.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Intern.Infrastructure/Intern.Infrastructure.csproj",
+      "msbuildProject": "../Intern.Infrastructure/Intern.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Intern.Application >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.12",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -475,11 +528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BLUEH\\Source\\repos\\ingress-cv\\Intern.Web\\Intern.Web.csproj",
+      "projectUniqueName": "C:\\Users\\BLUEH\\source\\repos\\ingress-cv\\Intern.Web\\Intern.Web.csproj",
       "projectName": "Intern.Web",
-      "projectPath": "C:\\Users\\BLUEH\\Source\\repos\\ingress-cv\\Intern.Web\\Intern.Web.csproj",
+      "projectPath": "C:\\Users\\BLUEH\\source\\repos\\ingress-cv\\Intern.Web\\Intern.Web.csproj",
       "packagesPath": "C:\\Users\\BLUEH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BLUEH\\Source\\repos\\ingress-cv\\Intern.Web\\obj\\",
+      "outputPath": "C:\\Users\\BLUEH\\source\\repos\\ingress-cv\\Intern.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -500,7 +553,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\BLUEH\\source\\repos\\ingress-cv\\Intern.Application\\Intern.Application.csproj": {
+              "projectPath": "C:\\Users\\BLUEH\\source\\repos\\ingress-cv\\Intern.Application\\Intern.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

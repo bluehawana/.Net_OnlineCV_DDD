@@ -1,0 +1,17 @@
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\bin\Debug\net7.0\Intern.Application.deps.json
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\bin\Debug\net7.0\Intern.Application.dll
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\bin\Debug\net7.0\Intern.Application.pdb
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\bin\Debug\net7.0\Intern.Domain.dll
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\bin\Debug\net7.0\Intern.Infrastructure.dll
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\bin\Debug\net7.0\Intern.Domain.pdb
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\bin\Debug\net7.0\Intern.Infrastructure.pdb
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\obj\Debug\net7.0\Intern.Application.csproj.AssemblyReference.cache
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\obj\Debug\net7.0\Intern.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\obj\Debug\net7.0\Intern.Application.AssemblyInfoInputs.cache
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\obj\Debug\net7.0\Intern.Application.AssemblyInfo.cs
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\obj\Debug\net7.0\Intern.Application.csproj.CoreCompileInputs.cache
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\obj\Debug\net7.0\Intern.Application.csproj.CopyComplete
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\obj\Debug\net7.0\Intern.Application.dll
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\obj\Debug\net7.0\refint\Intern.Application.dll
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\obj\Debug\net7.0\Intern.Application.pdb
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Application\obj\Debug\net7.0\ref\Intern.Application.dll
