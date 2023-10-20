@@ -11,7 +11,7 @@
         "projectName": "Intern.Application",
         "projectPath": "C:\\Users\\BLUEH\\source\\repos\\ingress-cv\\Intern.Application\\Intern.Application.csproj",
         "packagesPath": "C:\\Users\\BLUEH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BLUEH\\Source\\Repos\\ingress-cv\\Intern.Application\\obj\\",
+        "outputPath": "C:\\Users\\BLUEH\\source\\repos\\ingress-cv\\Intern.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -78,7 +78,7 @@
         "projectName": "Intern.Domain",
         "projectPath": "C:\\Users\\BLUEH\\source\\repos\\ingress-cv\\Intern.Domain\\Intern.Domain.csproj",
         "packagesPath": "C:\\Users\\BLUEH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BLUEH\\Source\\Repos\\ingress-cv\\Intern.Domain\\obj\\",
+        "outputPath": "C:\\Users\\BLUEH\\source\\repos\\ingress-cv\\Intern.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -138,7 +138,7 @@
         "projectName": "Intern.Infrastructure",
         "projectPath": "C:\\Users\\BLUEH\\source\\repos\\ingress-cv\\Intern.Infrastructure\\Intern.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\BLUEH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BLUEH\\Source\\Repos\\ingress-cv\\Intern.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\BLUEH\\source\\repos\\ingress-cv\\Intern.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

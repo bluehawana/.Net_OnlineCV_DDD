@@ -15,3 +15,19 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/BLUEH/source/repos/ingress-cv/Intern.Web/Views/CV/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1ZcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BLUEH/source/repos/ingress-cv/Intern.Web/Views/CV/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1ZcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BLUEH/source/repos/ingress-cv/Intern.Web/Views/CV/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1ZcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BLUEH/source/repos/ingress-cv/Intern.Web/Views/CV/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1ZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
