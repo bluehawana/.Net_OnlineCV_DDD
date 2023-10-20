@@ -2,11 +2,12 @@
 
 namespace Intern.Web.Controllers
 {
-    public class HomeController : Controller
+    public class CVController : Controller
     {
         public IActionResult Index()
         {
             return View();
         }
     }
+
 }

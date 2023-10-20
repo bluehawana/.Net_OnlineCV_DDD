@@ -23,6 +23,8 @@ C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\Intern.Web.As
 C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\Intern.Web.csproj.CoreCompileInputs.cache
 C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\Intern.Web.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\Intern.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\Intern.Web.RazorAssemblyInfo.cache
+C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\Intern.Web.RazorAssemblyInfo.cs
 C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\staticwebassets\msbuild.Intern.Web.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Intern.Web.props
 C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Intern.Web.props
@@ -37,5 +39,3 @@ C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\refint\Intern
 C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\Intern.Web.pdb
 C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\Intern.Web.genruntimeconfig.cache
 C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\ref\Intern.Web.dll
-C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\Intern.Web.RazorAssemblyInfo.cache
-C:\Users\BLUEH\source\repos\ingress-cv\Intern.Web\obj\Debug\net7.0\Intern.Web.RazorAssemblyInfo.cs

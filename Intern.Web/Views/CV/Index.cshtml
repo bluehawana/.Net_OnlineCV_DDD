@@ -1,5 +1,41 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
+    ViewBag.Title = "CV Manager";
 }
+
+<div class="container mt-5">
+    <h1>Welcome to the CV Manager</h1>
+    <p>Choose from the options below:</p>
+
+    <!-- Buttons for CV operations -->
+    <button id="btnCreateCV" class="btn btn-primary">Create CV</button>
+    <button id="btnEditCV" class="btn btn-info">Edit CV</button>
+    <button id="btnDownloadCV" class="btn btn-secondary">Download CV</button>
+    <button id="btnViewCV" class="btn btn-success">View CV</button>
+</div>
+
+@section scripts {
+    <script>
+        $(document).ready(function() {
+            $('#btnCreateCV').click(function() {
+                alert('Create CV button clicked');
+                // Navigate to Create CV page or handle creation logic
+            });
+
+            $('#btnEditCV').click(function() {
+                alert('Edit CV button clicked');
+                // Navigate to Edit CV page or handle editing logic
+            });
+
+            $('#btnDownloadCV').click(function() {
+                alert('Download CV button clicked');
+                // Handle downloading logic
+            });
+
+            $('#btnViewCV').click(function() {
+                alert('View CV button clicked');
+                // Navigate to View CV page or handle viewing logic
+            });
+        });
+    </script>
+}
+
